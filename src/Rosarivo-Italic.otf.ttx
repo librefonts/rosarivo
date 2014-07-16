@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Rosarivo-Italic.otf.GlyphOrder.ttx"/>
+  <head src="Rosarivo-Italic.otf._h_e_a_d.ttx"/>
+  <hhea src="Rosarivo-Italic.otf._h_h_e_a.ttx"/>
+  <maxp src="Rosarivo-Italic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Rosarivo-Italic.otf.O_S_2f_2.ttx"/>
+  <name src="Rosarivo-Italic.otf._n_a_m_e.ttx"/>
+  <cmap src="Rosarivo-Italic.otf._c_m_a_p.ttx"/>
+  <post src="Rosarivo-Italic.otf._p_o_s_t.ttx"/>
+  <CFF src="Rosarivo-Italic.otf.C_F_F_.ttx"/>
+  <GPOS src="Rosarivo-Italic.otf.G_P_O_S_.ttx"/>
+  <SOPG src="Rosarivo-Italic.otf.S_O_P_G_.ttx"/>
+  <hmtx src="Rosarivo-Italic.otf._h_m_t_x.ttx"/>
+  <kern src="Rosarivo-Italic.otf._k_e_r_n.ttx"/>
+</ttFont>
